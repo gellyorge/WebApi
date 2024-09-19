@@ -1,0 +1,17 @@
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\bin\Release\net8.0\CrudCliente.exe
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\bin\Release\net8.0\CrudCliente.deps.json
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\bin\Release\net8.0\CrudCliente.runtimeconfig.json
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\bin\Release\net8.0\CrudCliente.dll
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\bin\Release\net8.0\CrudCliente.pdb
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudCliente.csproj.AssemblyReference.cache
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudCliente.AssemblyInfoInputs.cache
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudCliente.AssemblyInfo.cs
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudCliente.csproj.CoreCompileInputs.cache
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudClie.FC176A7D.Up2Date
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudCliente.dll
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\refint\CrudCliente.dll
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudCliente.pdb
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\CrudCliente.genruntimeconfig.cache
+C:\Users\gelly\source\repos\WebAPI\CrudCliente\obj\Release\net8.0\ref\CrudCliente.dll
